@@ -90,7 +90,6 @@ int main() {
 
     system("cls");
     printf("Thank You.");
-    printf("\n\n- Group 2 | Dasar Komputer-03");
     printf("\n\n\nPress any key to end. ");
     getch();
 
